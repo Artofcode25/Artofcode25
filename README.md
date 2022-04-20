@@ -1,1 +1,1 @@
-Hello, I'm some guy interested in learning Python coding and coding in general.
+Hello, I'm some guy interested in learning Lua coding and coding in general.
